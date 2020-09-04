@@ -1,0 +1,31 @@
+﻿[
+
+  {
+    "name":"Иван",
+    "famile":"Абрамов",
+    "age": 29,
+    "positioned": 1
+  },
+
+  {
+    "name": "Сергей",
+    "famile": "Петров",
+    "age": 27,
+    "positioned": 2
+  },
+
+  {
+    "name": "Георгий",
+    "famile": "Васютин",
+    "age": 21,
+    "positioned": 3
+  },
+
+  {
+    "name": "Александр",
+    "famile": "Алиев",
+    "age": 23,
+    "positioned": 3
+  }
+
+]

@@ -1,0 +1,23 @@
+[
+
+  {
+    "id": 1,
+    "caption": "Product Manager"
+  },
+
+  {
+    "id": 2,
+    "caption":"Senior Developer"
+  },
+
+  {
+    "id": 3,
+    "caption":"Middle Developer"
+  },
+
+  {
+    "id": 4,
+    "caption":"Junior Developer"
+  }
+
+]
